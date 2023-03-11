@@ -119,9 +119,7 @@ export default function Header({ profile, activityBtn, painel }) {
               }
             }}
           >
-            <Box maxWidth="100px">
-              <Image src="/images/logo.png" alt="Logo UaiInovei" />
-            </Box>
+            <Box maxWidth="100px" />
           </Center>
           <Spacer />
           {profile ? (

@@ -7,7 +7,7 @@ function Layout({ children, noHeader, profile, activityBtn, painel }) {
   return (
     <Box>
       <Head>
-        <title>Inova</title>
+        <title>TCC Startup</title>
         <meta
           name="description"
           content="Empoderar gente para transformar realidades: acessibilidade, sustentabilidade e comunicação."
